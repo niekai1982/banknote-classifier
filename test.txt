@@ -1,9 +1,10 @@
-test txt
-
-test gvim
-
 import cv2
-import cv2
-import cv2
+import matplotlib.pyplot as plt
+import numpy as np
+import os
+import sklearn 
+import skimage
+from time import time 
 
-
+def main():
+    print "hello world!!"
